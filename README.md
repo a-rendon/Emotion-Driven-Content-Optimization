@@ -54,7 +54,15 @@ The ultimate goal is to design a machine learning pipeline capable of predicting
 
 Team Structure
 
-| Team | Focus Area | Key Responsibilities |
-|------|-------------|----------------------|
-| Tech & Data Science Team | Machine Learning, Signal Processing, Modeling | - Dataset preprocessing and feature extraction<br>- PAD model replication<br>- Multimodal emotion regression<br>- Tensor generation and data pipelines |
-| Behavioral & Strategy Team | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement |
+## 🧑‍💻 Team Structure
+
+## 🧑‍💻 Team Structure
+
+| Team | Focus Area | Key Responsibilities | Members |
+|------|-------------|----------------------|----------|
+| **Project Management Team** | Coordination, Planning, Documentation | - Oversee project timeline and deliverables<br>- Maintain documentation and GitHub updates<br>- Schedule meetings and track milestones<br>- Ensure cross-team communication and integration | Alexia Rendon (Lead PM)|
+| **Tech & Data Science Team** | Machine Learning, Signal Processing, Modeling | - Dataset preprocessing and feature extraction<br>- PAD model replication<br>- Multimodal emotion regression<br>- Tensor generation and data pipelines |[Name Placeholder 2]<br>[Name Placeholder 3] |
+| **Behavioral & Strategy Team** | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement | [Name Placeholder 2]<br>[Name Placeholder 3] |
+| **Faculty Advisor (Pending)** | Research Mentorship & Sponsorship | - Oversight of experimental design and data ethics<br>- Review of PAD modeling methodology<br>- Support for symposium presentation and publication | [To Be Determined] |
+
+
