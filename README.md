@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-Our project explores how emotional responses—captured through physiological signals like EEG, heart rate, and eye-tracking—can inform content personalization and recommendation systems beyond traditional click- or swipe-based data.
+Our project explores how emotional responses captured through physiological signals like EEG, heart rate, and eye-tracking can inform content personalization and recommendation systems beyond traditional click or swipe-based data.
 
 We are developing a framework that maps multimodal biosignals to emotional states using the PAD (Pleasure–Arousal–Dominance) model, treating it as a regression-based emotional representation rather than categorical classification. By analyzing open-source datasets such as DEAP and Neuma, we aim to extract meaningful emotional features (attention, engagement, and pleasure) and correlate them with content labels (ads, videos, or game stimuli).
 
@@ -57,8 +57,8 @@ The ultimate goal is to design a machine learning pipeline capable of predicting
 | Team | Focus Area | Key Responsibilities | Members |
 |------|-------------|----------------------|----------|
 | **Project Management** | Coordination, Planning, Documentation | - Oversee project timeline and deliverables<br>- Maintain documentation and GitHub updates<br>- Schedule meetings and track milestones<br>- Ensure cross-team communication and integration | Alexia Rendon |
-| **Tech & Data Science Team** | Machine Learning, Signal Processing, Modeling | - Dataset preprocessing and feature extraction<br>- PAD model replication<br>- Multimodal emotion regression<br>- Tensor generation and data pipelines |[Name Placeholder 2]<br>[Name Placeholder 3] |
-| **Behavioral & Strategy Team** | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement | [Name Placeholder 2]<br>[Name Placeholder 3] |
+| **Tech & Data Science Team** | Machine Learning, Signal Processing, Modeling | - Dataset preprocessing and feature extraction<br>- PAD model replication<br>- Multimodal emotion regression<br>- Tensor generation and data pipelines | [Anant Goyal](https://github.com/anant248)<br>[Name Placeholder] |
+| **Behavioral & Strategy Team** | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement | [Name Placeholder]<br>[Name Placeholder] |
 | **Faculty Advisor (Pending)** | Research Mentorship & Sponsorship | - Oversight of experimental design and data ethics<br>- Review of PAD modeling methodology<br>- Support for symposium presentation and publication | [To Be Determined] |
 
 
