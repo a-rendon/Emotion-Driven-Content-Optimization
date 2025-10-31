@@ -58,7 +58,7 @@ The ultimate goal is to design a machine learning pipeline capable of predicting
 |------|-------------|----------------------|----------|
 | **Project Management** | Coordination, Planning, Documentation | - Oversee project timeline and deliverables<br>- Maintain documentation and GitHub updates<br>- Schedule meetings and track milestones<br>- Ensure cross-team communication and integration | Alexia Rendon |
 | **Tech & Data Science Team** | Machine Learning, Signal Processing, Modeling | - Dataset preprocessing and feature extraction<br>- PAD model replication<br>- Multimodal emotion regression<br>- Tensor generation and data pipelines | [Anant Goyal](https://github.com/anant248)<br> [Bilal Arif](https://github.com/bilalarif3197) |
-| **Behavioral & Strategy Team** | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement | [Vrushi Patel Placeholder]<br>[Name Placeholder] |
+| **Behavioral & Strategy Team** | Research Design, Emotion Theory, Human Insights | - Literature review on emotional response frameworks<br>- Cold-start and participant bias mitigation<br>- Data visualization and figure generation<br>- Test scenario planning for emotional measurement | Vrushi Patel<br>[Name Placeholder] |
 | **Faculty Advisor (Pending)** | Research Mentorship & Sponsorship | - Oversight of experimental design and data ethics<br>- Review of PAD modeling methodology<br>- Support for symposium presentation and publication | [To Be Determined] |
 
 
